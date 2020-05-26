@@ -1,0 +1,33 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - ZZDebugTool (0.1.0)
+  - ZZNetworking (1.0.0):
+    - ZZDebugTool
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - ZZDebugTool (from `../../ZZDebugTool`)
+  - ZZNetworking (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  ZZDebugTool:
+    :path: "../../ZZDebugTool"
+  ZZNetworking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  ZZDebugTool: 5ba29c7bfb006b25bcf2c0f3a9c2a7be00c38aae
+  ZZNetworking: 9bedac56182a6137718d38abb6cc88b4ba030b3d
+
+PODFILE CHECKSUM: 706010672537cca82d10702dc4dceb1be82f63db
+
+COCOAPODS: 1.9.1

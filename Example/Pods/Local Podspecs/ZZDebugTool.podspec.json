@@ -1,0 +1,22 @@
+{
+  "name": "ZZDebugTool",
+  "version": "0.1.0",
+  "summary": "A short description of ZZDebugTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/guoyuze/ZZDebugTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "guoyuze": "zezefamily@163.com"
+  },
+  "source": {
+    "git": "https://github.com/guoyuze/ZZDebugTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZZDebugTool/Classes/**/*"
+}

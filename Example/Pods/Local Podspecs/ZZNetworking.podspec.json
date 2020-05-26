@@ -1,0 +1,27 @@
+{
+  "name": "ZZNetworking",
+  "version": "1.0.0",
+  "summary": "A short description of ZZNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/guoyuze/ZZNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "guoyuze": "zezefamily@163.com"
+  },
+  "source": {
+    "git": "https://github.com/guoyuze/ZZNetworking.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZZNetworking/Classes/**/*",
+  "dependencies": {
+    "ZZDebugTool": [
+
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+framework module ZZDebugTool {
+  umbrella header "ZZDebugTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
